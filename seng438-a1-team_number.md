@@ -4,9 +4,9 @@
 
 | Group: Group Number      |
 |-----------------|
-| Student 1 name                |   
+| Aayush Dahal                |   
 | Justin Kuhn              |   
-| Student 3 name               |   
+| Sheroze Nasir               |   
 
 
 **Table of Contents**

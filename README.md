@@ -3,7 +3,7 @@
 # Exploratory, Functional, & Regression Testing of an ATM System
 
  ## 📚 Project Summary
-This project involved testing a simulated **ATM system** as part of a university software testing course. We performed exploratory, manual functional, and regression testing across two versions of the application (``v1.0`` and ``v1.1``). Using JIRA as our bug tracking tool, we wrote detailed defect reports, validated bug fixes, and practiced collaborative testing workflows in a team environment.
+This project involved testing a simulated **ATM system** as part of a university software testing course. We performed exploratory, manual functional, and regression testing across two versions of the application (``v1.0`` and ``v1.1``) by running the provided JAR files (``ATM System - Lab 1 Version 1.0.jar`` and ``ATM System - Lab 1 Version 1.1.jar``) from the ``seng438-a1-artifacts.zip`` package. Using JIRA as our bug tracking tool, we wrote detailed defect reports, validated bug fixes, and practiced collaborative testing workflows in a team environment.
 
 ## 🛠️ Tools & Concepts Practiced
 - **Exploratory testing** (unscripted, high-level functional checks)

@@ -1,6 +1,6 @@
 >   **SENG 438 - Software Testing, Reliability, and Quality**
 
-# Exploratory, Functional, & Regression Testing of an ATM System
+# Exploratory, Functional, & Regression Testing of an ATM System 🕵️‍♂️
 
  ## 📚 Project Summary
 This project involved testing a simulated **ATM system** as part of a university software testing course. We performed exploratory, manual functional, and regression testing across two versions of the application (``v1.0`` and ``v1.1``) by running the provided JAR files (``ATM System - Lab 1 Version 1.0.jar`` and ``ATM System - Lab 1 Version 1.1.jar``) under the ``seng438-a1-artifacts.zip`` package. Using JIRA as our bug tracking tool, we wrote detailed defect reports, validated bug fixes, and practiced collaborative testing workflows in a team environment.
@@ -9,8 +9,8 @@ This project involved testing a simulated **ATM system** as part of a university
 
 ## 🛠️ Tools & Concepts Practiced
 - **Exploratory testing** (unscripted, high-level functional checks)
-- Manual scripted **functional testing** using predefined test suites
-- **Regression testing** to verify bug fixes in newer releases
+- Manual scripted **functional testing** based on use cases defined in [`seng438-a1.md`](./seng438-a1.md)
+- **Regression testing** to verify bug fixes in version `1.1`
 - Defect tracking and documentation using **JIRA**
 - Writing detailed **bug reports** with reproducible steps, expected vs. actual results
 - Pair testing and collaborative QA workflows
@@ -100,4 +100,6 @@ Note: One principle we tried to follow when dividing work was, to the extent the
 - The lab was very good at helping us learn the fundamentals of exploratory, scripted, and regression testing.
 - The lab was exceptional in demonstrating how testing is done in a team environment and the lab provided students a basic understanding of how to use a bug reporting tool like JIRA, how to write effective bug reports, as well as how to track progress. 
 - The lab also gave students hands on training on how to effectively work and communicate within a software team.
-- The assignment description was clear and cocise. The testing guide for each testing method was easy to follow.
+- The assignment description was clear and concise. The testing guide for each testing method was easy to follow.
+
+_This testing project was a joy to work on ❤️_

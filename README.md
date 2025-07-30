@@ -1,5 +1,31 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9906114&assignment_repo_type=AssignmentRepo)
 >   **SENG 438 - Software Testing, Reliability, and Quality**
+
+# Exploratory, Functional, & Regression Testing of an ATM System
+
+ ## 📚 Project Summary
+This project involved testing a simulated **ATM system** as part of a university software testing course. We performed exploratory, manual functional, and regression testing across two versions of the application (``v1.0`` and ``v1.1``). Using JIRA as our bug tracking tool, we wrote detailed defect reports, validated bug fixes, and practiced collaborative testing workflows in a team environment.
+
+## 🛠️ Tools & Concepts Practiced
+- **Exploratory testing** (unscripted, high-level functional checks)
+- Manual scripted **functional testing** using predefined test suites
+- **Regression testing** to verify bug fixes in newer releases
+- Defect tracking and documentation using **JIRA**
+- Writing detailed **bug reports** with reproducible steps, expected vs. actual results
+- Pair testing and collaborative QA workflows
+- Testing critical banking operations (e.g., withdrawal, deposit, transfer)
+
+
+**📝 The full defect report can be found in** [`DefectReport-Group30.pdf`](./DefectReport-Group30.pdf)
+
+_Screenshot of one entry from the defect report below:_
+
+<img width="527" height="705" alt="defect-repot-1 1" src="https://github.com/user-attachments/assets/18d4be95-d655-453c-a1fb-25ac70e4d38c" />
+<img width="526" height="375" alt="defect-report-1" src="https://github.com/user-attachments/assets/1a680807-0c2e-4bc2-9c07-e187946e953f" />
+
+---
+
+
+## 📄 Assignment Report Begins Below
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
@@ -10,23 +36,16 @@
 | Student 3: Sheroze Nasir               |   
 
 
-**Table of Contents**
+## 📑  Table of Contents
 
-[1 Introduction	1](#_Toc439194677)
+- [Introduction](#introduction)
+- [High-level description of the exploratory testing plan](#high-level-description-of-the-exploratory-testing-plan)
+- [Comparison of exploratory and manual functional testing](#comparison-of-exploratory-and-manual-functional-testing)
+- [Notes and discussion of the peer reviews of defect reports](#notes-and-discussion-of-the-peer-reviews-of-defect-reports)
+- [How the pair testing was managed and team work/effort was divided](#how-the-pair-testing-was-managed-and-team-workeffort-was-divided)
+- [Difficulties encountered, challenges overcome, and lessons learned](#difficulties-encountered-challenges-overcome-and-lessons-learned)
+- [Comments/feedback on the lab and lab document itself](#commentsfeedback-on-the-lab-and-lab-document-itself)
 
-[2 High-level description of the exploratory testing plan	1](#_Toc439194678)
-
-[3 Comparison of exploratory and manual functional testing	1](#_Toc439194679)
-
-[4 Notes and discussion of the peer reviews of defect reports	1](#_Toc439194680)
-
-[5 How the pair testing was managed and team work/effort was
-divided	1](#_Toc439194681)
-
-[6 Difficulties encountered, challenges overcome, and lessons
-learned	1](#_Toc439194682)
-
-[7 Comments/feedback on the lab and lab document itself	1](#_Toc439194683)
 
 # Introduction
 

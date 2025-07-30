@@ -1,15 +1,15 @@
 > **SENG 438 - Software Testing, Reliability, and Quality**
 
-# Exploratory, Functional, & Regression Testing of an ATM System 🕵️‍♂️
+# Black-Box Exploratory, Functional, & Regression Testing of an ATM System 🕵️‍♂️
 
  ## 📚 Project Summary
-This project involved testing a simulated **ATM system** as part of a university software testing course. We performed exploratory, manual functional, and regression testing across two versions of the application (``v1.0`` and ``v1.1``) by running the provided JAR files (``ATM System - Lab 1 Version 1.0.jar`` and ``ATM System - Lab 1 Version 1.1.jar``) under the ``seng438-a1-artifacts.zip`` package. Using JIRA as our bug tracking tool, we wrote detailed defect reports, validated bug fixes, and practiced collaborative testing workflows in a team environment.
+This project involved black-box testing of a simulated **ATM system** as part of a university software testing course. We performed exploratory, manual functional, and regression testing across two versions of the application (``v1.0`` and ``v1.1``) by running the provided JAR files (``ATM System - Lab 1 Version 1.0.jar`` and ``ATM System - Lab 1 Version 1.1.jar``) under the ``seng438-a1-artifacts.zip`` package. Using JIRA as our bug tracking tool, we wrote detailed defect reports, validated bug fixes, and practiced collaborative testing workflows in a team environment.
 
 ![Status](https://img.shields.io/badge/grade_achieved-A%2B-success?style=flat-square)
 
 ## 🛠️ Tools & Concepts Practiced
 - **Exploratory testing** (unscripted, high-level functional checks)
-- Manual scripted **functional testing** based on use cases defined in [`seng438-a1.md`](./seng438-a1.md)
+- Manual **functional testing** based on use cases defined in [`seng438-a1.md`](./seng438-a1.md)
 - **Regression testing** to verify bug fixes in version `1.1`
 - Defect tracking and documentation using **JIRA**
 - Writing detailed **bug reports** with reproducible steps, expected vs. actual results

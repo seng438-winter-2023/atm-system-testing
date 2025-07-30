@@ -24,6 +24,11 @@ _Screenshot of one entry from the defect report below:_
 <img width="527" height="705" alt="defect-repot-1 1" src="https://github.com/user-attachments/assets/18d4be95-d655-453c-a1fb-25ac70e4d38c" />
 <img width="526" height="375" alt="defect-report-1" src="https://github.com/user-attachments/assets/1a680807-0c2e-4bc2-9c07-e187946e953f" />
 
+## 🏧 System Under Test
+_Screenshot of the system under test_
+
+![system](https://github.com/user-attachments/assets/16ea4f7b-80b9-415d-a571-32bae8e9aaae)
+
 ---
 
 
